@@ -45,9 +45,14 @@ header {
 }
 
 #hero-black { 
-    height: 335px;
+    background: url(../images/SP_CE.png);
+    position: relative;
+    flex-direction: column;
+    justify-content: flex-start;   
+    background-size: cover;
+    background-position: center;
     width: 100%;
-    background-color: #000;
+    height: 335px;
     margin: auto;
 }
 
