@@ -54,6 +54,7 @@ header {
     width: 100%;
     height: 335px;
     margin: auto;
+    border-radius: 8px 8px 0px 0px;
 }
 
 #hero-white {
@@ -62,7 +63,7 @@ header {
     background-color: #fff;
     margin: auto;
     align-items: center center no-repeat;
-    
+    border-radius: 0px 0px 8px 8px;
 }
 
 #hero-image heading {
@@ -95,7 +96,7 @@ header {
 button {
     color: #fff;
     padding: 8px;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 14px;
     margin: 25px 0;
     background-color: #242424;
