@@ -19,18 +19,21 @@ body {
     width: 680px;
     background-color: #F4F7F8;
     margin: auto;
+    margin-top: 50px;
 }
 
 header {
     margin-top:30px;
 }
 
+
 #logo {
     text-align: center;
     font-size: 240%;
     color: #000;
-    padding-top: 30px;
+    padding-top: 50px;
 }
+
     
 
 #wrap {
@@ -39,7 +42,7 @@ header {
     margin: auto;
     margin-bottom: -20px;
     border-radius: 20px;
-    margin-top: -80px;
+    margin-top: 10px;
 
 }
 
